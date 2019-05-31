@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LevelUISpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a4a13ad2727104dacad93e10182ee009, type: 3}
+    - {fileID: 2800000, guid: 10b399ab393a1412297483a9a7f98fdc, type: 3}
+    - {fileID: 2800000, guid: c67348b8e2d4d4e868f4f835d61ca006, type: 3}
+    - {fileID: 2800000, guid: 83d98cd29c8b64242820cef852920202, type: 3}
+    - {fileID: 2800000, guid: 3ff0fc8c484bf47c08febffc821dce74, type: 3}
+    - {fileID: 2800000, guid: ccf7d4f5783784521bed9b694d25b6ea, type: 3}
+    - {fileID: 2800000, guid: 6f39b86b1df4d42eb96fa8213f2045a6, type: 3}
+    - {fileID: 2800000, guid: 6e1fa7b6fc9474f3c8468a034d014cae, type: 3}
+    - {fileID: 2800000, guid: 99b57a5f55e1e4388a3cc8bf0209c32b, type: 3}
+    totalSpriteSurfaceArea: 329569
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a4a13ad2727104dacad93e10182ee009, type: 3}
+  - {fileID: 21300000, guid: 83d98cd29c8b64242820cef852920202, type: 3}
+  - {fileID: 21300000, guid: ccf7d4f5783784521bed9b694d25b6ea, type: 3}
+  - {fileID: 21300000, guid: 6e1fa7b6fc9474f3c8468a034d014cae, type: 3}
+  - {fileID: 21300000, guid: c67348b8e2d4d4e868f4f835d61ca006, type: 3}
+  - {fileID: 21300000, guid: 6f39b86b1df4d42eb96fa8213f2045a6, type: 3}
+  - {fileID: 21300000, guid: 10b399ab393a1412297483a9a7f98fdc, type: 3}
+  - {fileID: 21300000, guid: 3ff0fc8c484bf47c08febffc821dce74, type: 3}
+  - {fileID: 21300000, guid: 99b57a5f55e1e4388a3cc8bf0209c32b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Boost_1
+  - boost_backing
+  - divider
+  - pattern
+  - boost_3
+  - frame
+  - boost_2
+  - close_btn
+  - play_button
+  m_Tag: LevelUISpriteAtlas
+  m_IsVariant: 0
