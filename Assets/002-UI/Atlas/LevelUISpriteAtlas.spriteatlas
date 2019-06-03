@@ -50,7 +50,8 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 6f39b86b1df4d42eb96fa8213f2045a6, type: 3}
     - {fileID: 2800000, guid: 6e1fa7b6fc9474f3c8468a034d014cae, type: 3}
     - {fileID: 2800000, guid: 99b57a5f55e1e4388a3cc8bf0209c32b, type: 3}
-    totalSpriteSurfaceArea: 329569
+    - {fileID: 2800000, guid: d9d907bf0bd9c47c6960ccd657c5521e, type: 3}
+    totalSpriteSurfaceArea: 717685
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -63,6 +64,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 10b399ab393a1412297483a9a7f98fdc, type: 3}
   - {fileID: 21300000, guid: 3ff0fc8c484bf47c08febffc821dce74, type: 3}
   - {fileID: 21300000, guid: 99b57a5f55e1e4388a3cc8bf0209c32b, type: 3}
+  - {fileID: 21300000, guid: d9d907bf0bd9c47c6960ccd657c5521e, type: 3}
   m_PackedSpriteNamesToIndex:
   - Boost_1
   - boost_backing
@@ -73,5 +75,6 @@ SpriteAtlas:
   - boost_2
   - close_btn
   - play_button
+  - header_image_mask
   m_Tag: LevelUISpriteAtlas
   m_IsVariant: 0
